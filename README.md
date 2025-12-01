@@ -8,6 +8,8 @@
 
 4. Acquire measurement data: Using a Python script, send SCPI commands to read the forward and reflected signals.
 
+The Python code: 
+
 import redpitaya_scpi as rp_scpi
 import numpy as np
 import matplotlib.pyplot as plt
